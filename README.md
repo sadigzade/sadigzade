@@ -14,6 +14,6 @@
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-2B353E?style=for-the-badge&logo=bootstrap&logoColor=563B7D)
 
 ### Follow me
-![Vkontakte](https://img.shields.io/badge/-Vkontakte-2B353E?style=for-the-badge&logo=Vk&logoColor=4F7DB3)
-![Telegram](https://img.shields.io/badge/-Telegram-2B353E?style=for-the-badge&logo=telegram&logoColor=007AFB)
-![Instagram](https://img.shields.io/badge/-Instagram-2B353E?style=for-the-badge&logo=instagram&logoColor=ED1355)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-2B353E?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/sadigzade)
+[![Telegram](https://img.shields.io/badge/-Telegram-2B353E?style=for-the-badge&logo=telegram&logoColor=007AFB)](https://t.me/sadigzade)
+[![Instagram](https://img.shields.io/badge/-Instagram-2B353E?style=for-the-badge&logo=instagram&logoColor=ED1355)](https://www.instagram.com/sadigzade.hi/)
