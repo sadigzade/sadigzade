@@ -13,4 +13,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-2B353E?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-2B353E?style=for-the-badge&logo=bootstrap&logoColor=563B7D)
 
-Follow me
+### Follow me
+![Vkontakte](https://img.shields.io/badge/-Vkontakte-2B353E?style=for-the-badge&logo=Vk&logoColor=4F7DB3)
+![Telegram](https://img.shields.io/badge/-Telegram-2B353E?style=for-the-badge&logo=telegram&logoColor=007AFB)
+![Instagram](https://img.shields.io/badge/-Instagram-2B353E?style=for-the-badge&logo=instagram&logoColor=ED1355)
