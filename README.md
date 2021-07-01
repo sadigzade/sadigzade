@@ -2,8 +2,14 @@
 
 ## I'm a Frontend Developer
 
-Latest
-
-Languages and Tools
+### Languages and Tools
+![HTML](https://img.shields.io/badge/-HTML-2B353E?style=for-the-badge&logo=html5&logoColor=E44D25)
+![CSS](https://img.shields.io/badge/-CSS-2B353E?style=for-the-badge&logo=css3&logoColor=007AFB)
+![JS](https://img.shields.io/badge/-JS-2B353E?style=for-the-badge&logo=javascript&logoColor=FEE400)
+![HTML](https://img.shields.io/badge/-HTML-2B353E?style=for-the-badge&logo=html5&logoColor=E44D25)
+![HTML](https://img.shields.io/badge/-HTML-2B353E?style=for-the-badge&logo=html5&logoColor=E44D25)
+![HTML](https://img.shields.io/badge/-HTML-2B353E?style=for-the-badge&logo=html5&logoColor=E44D25)
+![HTML](https://img.shields.io/badge/-HTML-2B353E?style=for-the-badge&logo=html5&logoColor=E44D25)
+![HTML](https://img.shields.io/badge/-HTML-2B353E?style=for-the-badge&logo=html5&logoColor=E44D25)
 
 Follow me
