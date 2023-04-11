@@ -9,9 +9,13 @@ Frontend React разработчик
 *   🌍  Я базируюсь в Москве, Россия
 *   🖥️  Посмотри мой личный сайт с портфолио [sadigzade.dev](http://sadigzadedev.vercel.app)
 *   ✉️  Ты можешь со мной связаться с [sadigzade.hi@yandex.ru](mailto:sadigzade.hi@yandex.ru)
-*   🚀  В данный момент работаю над [Stellar Burgers](http://Stellar Burgers)
-*   🧠  Я изучаю React, Redux, Typescript<a href="https://www.github.com/sadigzade" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/sadigzade?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+*   🚀  В данный момент работаю над [Stellar Burgers](http://StellarBurgers)
+*   🧠  Я изучаю React, Redux, Typescript
+
+<a href="https://www.github.com/sadigzade" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/sadigzade?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Навыки 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -30,15 +34,11 @@ Frontend React разработчик
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/sadigzade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/sadigzade.hi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                      
-                      <a href="http://www.vk.com/sadigzade" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_VK-1024.png" width="32" height="32" /></a>
-                      
-                      <a href="http://www.t.me/sadigzade" target="_blank" rel="noreferrer"><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" width="32" height="32" /></a></p>
+### Социальные сети
+
+<p align="left">
+<a href="https://www.github.com/sadigzade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/sadigzade.hi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="http://www.vk.com/sadigzade" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_VK-1024.png" width="32" height="32" /></a>
+<a href="http://www.t.me/sadigzade" target="_blank" rel="noreferrer"><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" width="32" height="32" /></a>
+</p>
