@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Хикмет Садигзаде
+Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Садигзаде Хикмет
 ========================================================================================================================================
 
 Frontend React разработчик
@@ -6,11 +6,11 @@ Frontend React разработчик
 
 Будучи начинающим фронтенд-разработчиком, я обладаю внушительным арсеналом навыков в области HTML, CSS, JavaScript, TypeScript, React, Tailwind и SCSS. Я преуспеваю в разработке и поддержке адаптивных веб-сайтов, которые обеспечивают удобство работы пользователей. Мой опыт заключается в создании динамичных, привлекательных интерфейсов путем написания чистого и оптимизированного кода и использования передовых инструментов и методов разработки. Я также являюсь командным игроком, который преуспевает в сотрудничестве с кросс-функциональными командами для создания выдающихся веб-приложений.
 
-*   🌍  I'm based in Москва, Россия
-*   🖥️  See my portfolio at [sadigzade.dev](http://sadigzadedev.vercel.app)
-*   ✉️  You can contact me at [sadigzade.hi@yandex.ru](mailto:sadigzade.hi@yandex.ru)
-*   🚀  I'm currently working on [Stellar Burgers](http://Stellar Burgers)
-*   🧠  I'm learning React, Redux, Typescript<a href="https://www.github.com/sadigzade" target="_blank" rel="noreferrer"><img
+*   🌍  Я базируюсь в Москве, Россия
+*   🖥️  Посмотри мой личный сайт с портфолио [sadigzade.dev](http://sadigzadedev.vercel.app)
+*   ✉️  Ты можешь со мной связаться с [sadigzade.hi@yandex.ru](mailto:sadigzade.hi@yandex.ru)
+*   🚀  В данный момент работаю над [Stellar Burgers](http://Stellar Burgers)
+*   🧠  Я изучаю React, Redux, Typescript<a href="https://www.github.com/sadigzade" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/sadigzade?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -37,4 +37,8 @@ Frontend React разработчик
                           
                       <a href="https://www.github.com/sadigzade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
-                      <a href="http://www.instagram.com/sadigzade.hi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+                      <a href="http://www.instagram.com/sadigzade.hi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                      
+                      <a href="http://www.vk.com/sadigzade" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_VK-1024.png" width="32" height="32" /></a>
+                      
+                      <a href="http://www.t.me/sadigzade" target="_blank" rel="noreferrer"><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" width="32" height="32" /></a></p>
