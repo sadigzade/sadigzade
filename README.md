@@ -6,7 +6,7 @@
 *   🌍  Я базируюсь в Москве, Россия
 *   🖥️  Посмотри мой личный сайт с портфолио [sadigzade.dev](http://sadigzadedev.vercel.app)
 *   ✉️  Ты можешь со мной связаться с [sadigzade.hi@yandex.ru](mailto:sadigzade.hi@yandex.ru)
-*   🚀  В данный момент работаю над [Stellar Burgers](http://StellarBurgers)
+*   🚀  В данный момент работаю над [Stellar Burgers](http://sadigzade.github.io/stellar-burgers)
 *   🧠  Я изучаю React, Redux, Typescript
 
 <a href="https://www.github.com/sadigzade" target="_blank" rel="noreferrer"><img
